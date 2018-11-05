@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Midterm_review\Midterm_review\bin\Debug\Midterm_review.exe.config
+C:\Users\user\source\repos\Midterm_review\Midterm_review\bin\Debug\Midterm_review.exe
+C:\Users\user\source\repos\Midterm_review\Midterm_review\bin\Debug\Midterm_review.pdb
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.investment_form.resources
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.portfolio_form.resources
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.Properties.Resources.resources
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.exe
+C:\Users\user\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.pdb
